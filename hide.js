@@ -1,3 +1,5 @@
+// This is awful, don't look at this code
+
 function hide1() {
   let object = document.getElementById("c1"),
       object_tab = document.getElementById("t1"),
